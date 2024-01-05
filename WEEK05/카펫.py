@@ -1,3 +1,5 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/42842
+
 #프로그래머스 카펫
 def solution(brown, yellow):
     area = brown + yellow
