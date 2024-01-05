@@ -1,3 +1,5 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/42885
+
 import sys
 def solution(people, limit):
     global wPeople, wLimit, boatCnt, weightSum
