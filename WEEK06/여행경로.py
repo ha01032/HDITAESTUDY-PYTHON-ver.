@@ -1,3 +1,5 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/43164
+
 def dfs(start):
     global answer, ticketNum, adjMap
     if len(answer) == ticketNum+1:
