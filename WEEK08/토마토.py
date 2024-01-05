@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/7576
+
 #토마토
 import sys
 from collections import deque
