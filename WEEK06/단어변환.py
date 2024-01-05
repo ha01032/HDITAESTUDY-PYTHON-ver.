@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/17413
+
 def canChange(start, end):
     global wordLen
     notSame = 0
